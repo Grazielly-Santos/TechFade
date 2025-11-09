@@ -1,16 +1,12 @@
-# tech_fade_barbearia
+TechFade- Barbearia
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O sistema TechFade tem como propósito modernizar e otimizar o processo de
+agendamento e gestão de atendimentos em barbearias, oferecendo maior
+praticidade tanto para os clientes quanto para os profissionais. A plataforma busca
+eliminar a necessidade de agendamentos presenciais ou por telefone, centralizando
+as informações de serviços, profissionais e horários disponíveis em um ambiente
+digital intuitivo. Assim, o TechFade visa proporcionar uma experiência mais ágil e
+organizada, melhorando a comunicação entre cliente e barbeiro, além de contribuir
+para a eficiência operacional dos estabelecimentos. 
